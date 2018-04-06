@@ -1,1 +1,1 @@
-apt-get update & apt-get upgrade & apt-get install gcc git
+apk update && apk upgrade && apk add gcc git
